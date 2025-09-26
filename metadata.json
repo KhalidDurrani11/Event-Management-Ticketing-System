@@ -1,0 +1,5 @@
+{
+  "name": "Eventify - Modern Event & Ticketing Platform",
+  "description": "A sleek, modern, and production-ready Event Management & Ticketing System built with React, Tailwind CSS, and Framer Motion. Features include event catalogs, ticket booking with QR codes, and an organizer dashboard.",
+  "requestFramePermissions": []
+}
